@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Kumar
-=======
-Lakshman
->>>>>>> 7b9a466eade9673dbfb3785e2ef4109ba88d87b5
+Lakshman Kumar
+
